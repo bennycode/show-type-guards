@@ -1,5 +1,5 @@
 class Dog {
-  name!: string;
+  name?: string;
   bark = () => {
   };
   run = () => {
@@ -7,7 +7,7 @@ class Dog {
 }
 
 class Person {
-  name!: string;
+  name?: string;
   shout = () => {
   };
   walk = () => {
