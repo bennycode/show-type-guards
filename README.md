@@ -5,3 +5,5 @@ Workshop for [TypeScript Berlin Meetup #9](https://www.meetup.com/typescript-ber
 ## [Presentation](./Type%20Guards.pdf)
 
 ## [Demo Code](./src)
+
+## [Recording](https://www.youtube.com/watch?v=JtIpoVTjUuI)
